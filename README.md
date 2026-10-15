@@ -60,3 +60,4 @@ npm run preview    # 本地预览生产构建
 Keep JSON exports safe. This demo stores tasks only in the current browser.
 
 Git workflow probe: right edit retained.
+Git workflow probe: left edit retained.
