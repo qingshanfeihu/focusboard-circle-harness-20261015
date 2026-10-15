@@ -59,4 +59,4 @@ npm run preview    # 本地预览生产构建
 ## Developer collaboration note
 Keep JSON exports safe. This demo stores tasks only in the current browser.
 
-Git workflow probe: baseline.
+Git workflow probe: right edit retained.
