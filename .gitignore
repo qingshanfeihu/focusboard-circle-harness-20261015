@@ -14,3 +14,9 @@ validation/
 .cursor/hooks.json
 .cursor/hooks/
 .cursor/mcp.json
+
+# TypeScript incremental build artifacts
+*.tsbuildinfo
+
+# Local-only viewport harness for 375x480 checks
+viewport-test.html
